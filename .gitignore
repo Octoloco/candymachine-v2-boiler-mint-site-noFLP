@@ -26,8 +26,6 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
-#Enviroment File
-.env
 
 #Build
 build/
